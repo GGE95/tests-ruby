@@ -7,6 +7,3 @@ def check_for_integers
   end
 end 
 end
-
-my_array = [1, 2, nil]
-puts my_array.check_for_integers
